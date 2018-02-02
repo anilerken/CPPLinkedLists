@@ -1,2 +1,2 @@
 # CPPLinkedLists
-This is a linked list practise in C++. There are songs in a linked list, also each song has a linked list of musicians. This is not a project actually, it was a homework. I'm posting this because it can be useful for someone who wants to practise linked lists. To test the functions, you should create main function which I didn't include here.
+This is a simulation of a jukebox via linked lists in C++. There are tracks in a linked list, also each track has a linked list of musicians. Functions provide options like adding/removing tracks/musicians and displaying tracks/musician roles etc. To test the functions, you should create your main function which I didn't include here.
